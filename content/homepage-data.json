@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "title": "Welcome to Celebration City",
+    "subtitle": "Building the future of event experiences",
+    "ctaText": "Get Started",
+    "ctaLink": "/signup",
+    "backgroundImage": "/uploads/1748576892592-ChatGPT_Image_Apr_6__2025__02_00_17_AM.png"
+  },
+  "features": [
+    {
+      "id": 1,
+      "title": "Easy Content Management",
+      "description": "Update your website content without touching the code",
+      "icon": "edit"
+    },
+    {
+      "id": 2,
+      "title": "Fast Performance",
+      "description": "Optimized for speed and user experience",
+      "icon": "speed"
+    },
+    {
+      "id": 3,
+      "title": "Secure & Reliable",
+      "description": "Built with security and reliability in mind",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "title": "About Us",
+    "content": "We're dedicated to providing the best possible experience for our users. Our platform combines powerful features with ease of use.",
+    "image": "/uploads/1748577151589-ChatGPT_Image_Apr_6__2025__01_38_14_AM.png"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "email": "contact@example.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Innovation Street, Tech City, TC 12345"
+  },
+  "metadata": {
+    "lastUpdated": "2024-03-20",
+    "version": "1.0.0"
+  }
+}
